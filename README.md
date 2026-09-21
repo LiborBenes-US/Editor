@@ -20,6 +20,9 @@ Features:
 • Double-Click Integration: Automatically opens and reads text files when associated via Windows file system settings.
 • Enhanced Readability: Set to a clean Consolas font at size 16 for comfortable reading.
 
+Security & Privacy:
+Security-First. No Tracking. No Data Collection. No Telemetry. No Ads. Local to the PC, No Network Activity Following Install.
+
 Requirements:
 • Windows Operating System
 • .NET Framework 4.0 or higher (Installed by default on almost all modern Windows PCs)
